@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB5_AND102_FA24</string>
+    <string name="open" />
+    <string name="close">\n</string>
+</resources>
